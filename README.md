@@ -1,4 +1,4 @@
-# LetsBloom_Assignment1
+# LetsBloom_Assignment1 (Om_Kumar_Singh 20JE0650 IIT(ISM))
 Step 1: Necessary Packages( express, mongoose, body-parser) are installed, after starting server 
         Database connection request will be there in mongo db compass. collection will be named as Sample
 
